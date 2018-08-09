@@ -1,0 +1,2513 @@
+[
+    {
+      "_id": "c-m1-00",
+      "_parentId": "b-m1-00",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Introduction",
+      "displayTitle": "",
+      "body": "<span class='course-title'>Learning Styles</span><br><br>Learners learn differently. As a Trainer, you need to understand this while preparing for the training session. This chapter will help you to cater to your learners' different learning needs and enable them to achieve their goals.",
+      "instruction": "",
+      "_pageLevelProgress": {
+          "_isEnabled": true
+      }
+    },
+
+     {
+        "_id": "c-m1-03",
+        "_parentId": "b-m1-03",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_shouldDisplayAttempts": false,
+        "_questionWeight": 1,
+        "_isRandom": false,
+        "_selectable": 4,
+        "_canShowModelAnswer": true,
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_recordInteraction": true,
+        "title": "Fulfilling Participant Needs",
+        "displayTitle": "Fulfilling Participant Needs",
+        "body": "The participants will be arriving shortly for a training session. <br><br> <b class='question-title'>What steps will you take to ensure that the basic human needs of the participants are met even before the training begins?</b> ",
+        "instruction": "Select the correct options. Select Submit once you have finished.",
+        "_items": [
+            {
+                "text": "Set the temperature of the room to the desired level before the participants arrive.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Ensure that the lighting is ideal for presentations and note-taking.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Make sure that you only enrol limited people in the training for a smoother session.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Arrange the props in such a way that everyone can see the presenter and the presentation.",
+                "_shouldBeSelected": true
+            }
+        ],
+        "_feedback":{
+            "title": "",
+            "correct": "<div class='correct-design'><img src='course/en/images/correct-icon.png'></div><div class='correct-text'><span class='correct'>Correct!</span><p style='text-alight:center;'>As a Trainer, ensure that the desired temperature of the room is set before the participants arrive and the lighting is ideal for presentations and note-taking. Arrange to make the line of sight clear for the participants to be able to view the presenter.</p></div>",
+            "_incorrect": {
+                "final": "<div class='incorrect-design'><img src='course/en/images/incorrect-icon.png'></div><div class='in-correct-text'><span class='incorrect'>Incorrect!</span><p style='text-alight:center;'>As a Trainer, ensure that the desired temperature of the room is set before the participants arrive and the lighting is ideal for presentations and note-taking. Arrange to make the line of sight clear for the participants to be able to view the presenter.</p></div>"
+            },
+              "_partlyCorrect": {
+            "notFinal": "",
+            "final": "<div class='in-correct-text'><span class='incorrect'>Quite Close!</span><p style='text-alight:center;'>As a Trainer, ensure that the desired temperature of the room is set before the participants arrive and the lighting is ideal for presentations and note-taking. Arrange to make the line of sight clear for the participants to be able to view the presenter.</p></div>"
+          }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    
+  {
+      "_id": "c-m1-03-01",
+      "_parentId": "b-m1-03-01",
+      "_type": "component",
+      "_component": "text",
+      "_classes": "",
+      "_layout": "left",
+      "title": "Learning Objectives",
+      "displayTitle": "LEARNING OBJECTIVES",
+      "body": "By the end of this chapter, you will be able to:<br><ul><li>List the participants’ basic needs.</li><li>Manage the distractions that arise from not meeting their basic human needs.</li></ul>",
+      "instruction": "",
+      "_pageLevelProgress": {
+          "_isEnabled": true
+      }
+    },
+  {
+        "_id":"c-m1-04",
+        "_parentId":"b-m1-04",
+        "_type":"component",
+        "_classes":"mcq-style3",
+        "_component": "narrative",
+        "title": "Understanding Basic Human Needs",
+        "displayTitle": "Understanding Basic Human Needs",
+        "body": "Failing a basic human need will result in a distracted group that is unable to focus on learning.",
+        "instruction": "Select each arrow to view the tips to avoid such distractions.",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "Select the plus sign to view the content, then select the forward arrow to proceed. ",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "",
+                "body": "<b class='title-h1'>Temperature</b><br><br>Whenever participants experience uncomfortable temperatures, they only remember the situation and seldom the subject or content. So, ensure that the desired temperature is set before the participants arrive.",
+                "_graphic": {
+                    "src": "course/en/images/need01.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": "Temperature"
+            },
+            {
+                "title": "",
+                "body": "<b class='title-h1'>Line of Sight </b><br><br>If participants can’t see you or the subject matter, they will tune out. Ensure that everyone can see or gets the opportunity to see you and what you are showing them. ",
+                "_graphic": {
+                    "src": "course/en/images/need02.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": "Line of Sight"
+            },
+            {
+                "title": "",
+                "body": "<b class='title-h1'>Lighting</b><br><br>It is important to see what you are working on and showcase the finished results. Ensure that the lighting is ideal for presentations and note-taking.",
+                "_graphic": {
+                    "src": "course/en/images/need03.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": "Lighting"
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Fatigue, hunger, thirst</b><br><br>All of these will distract the participants. Give sufficient breaks and energisers to keep the audience engaged. ",
+                "_graphic": {
+                    "src": "course/en/images/need04.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": "Fatigue, hunger, thirst"
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Comfort breaks </b><br><br>This can work in two ways. It will allow participants to move around and take the necessary breaks without having to ask.",
+                "_graphic": {
+                    "src": "course/en/images/need05.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": "Comfort breaks"
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Timing</b><br><br>Don’t let your participants get distracted by timings. Reassure them of the time needed – from beginning to end. Avoid defining specific timings for topics working from your outline. You need to plan your time but the participants do not need to know the details.",
+                "_graphic": {
+                    "src": "course/en/images/need06.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": "Timing"
+            }
+        ],
+            "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id": "c-m1-10",
+        "_parentId": "b-m1-10",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_shouldDisplayAttempts": false,
+        "_questionWeight": 1,
+        "_isRandom": false,
+        "_selectable": 4,
+        "_canShowModelAnswer": true,
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_recordInteraction": true,
+        "title": "Fulfilling Participant Needs",
+        "displayTitle": "Fulfilling Participant Needs",
+        "body": "The participants will be arriving shortly for a training session. <br><br> <b class='question-title'>What steps will you take to ensure that the basic human needs of the participants are met even before the training begins?</b> ",
+        "instruction": "Select the correct options. Select Submit once you have finished.",
+        "_items": [
+            {
+                "text": "Set the temperature of the room to the desired level before the participants arrive.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Ensure that the lighting is ideal for presentations and note-taking.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Make sure that you only enrol limited people in the training for a smoother session.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Arrange the props in such a way that everyone can see the presenter and the presentation.",
+                "_shouldBeSelected": true
+            }
+        ],
+        "_feedback":{
+            "title": "",
+            "correct": "<div class='correct-design'><img src='course/en/images/correct-icon.png'></div><div class='correct-text'><span class='correct'>Correct!</span><p style='text-alight:center;'>As a Trainer, ensure that the desired temperature of the room is set before the participants arrive and the lighting is ideal for presentations and note-taking. Arrange to make the line of sight clear for the participants to be able to view the presenter.</p></div>",
+            "_incorrect": {
+                "final": "<div class='incorrect-design'><img src='course/en/images/incorrect-icon.png'></div><div class='in-correct-text'><span class='incorrect'>Incorrect!</span><p style='text-alight:center;'>As a Trainer, ensure that the desired temperature of the room is set before the participants arrive and the lighting is ideal for presentations and note-taking. Arrange to make the line of sight clear for the participants to be able to view the presenter.</p></div>"
+            },
+              "_partlyCorrect": {
+            "notFinal": "",
+            "final": "<div class='in-correct-text'><span class='incorrect'>Quite Close!</span><p style='text-alight:center;'>As a Trainer, ensure that the desired temperature of the room is set before the participants arrive and the lighting is ideal for presentations and note-taking. Arrange to make the line of sight clear for the participants to be able to view the presenter.</p></div>"
+          }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id": "c-m1-45",
+        "_parentId": "b-m1-35",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "right",
+        "title": "Let’s Recap",
+        "displayTitle": "<span class='item-first-block-title'>Let’s Recap</span>",
+        "body": "Here are the key learnings from this chapter:<ul><li>Understand your participants’ basic human needs in order to keep them engaged.</li><li>Address all the needs of the participants to avoid any distractions.</li></ul>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-m1-35",
+        "_parentId": "b-m1-45",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Development Opportunity",
+        "displayTitle": "Development Opportunity",
+        "body": "Now that you have been through this chapter, here is a task for you.<div class='offbox1'><div class='offimg'><img src='course/en/images/note.png'></div><div class='offtext'>Based on your experience as a learner, prepare a list of all your needs that you would like to see addressed during any training session. </div><div style='clear:both;'></div></div><div class='offbox2'><div class='offimg'><img src='course/en/images/imp.png'></div><div class='offtext'>Submit your task to your manager for feedback.</div><div style='clear:both;'></div></div>",
+        "instruction": "",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+    {
+        "_id":"c-m1-50",
+        "_parentId":"b-m1-50",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"page-end-style",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"Select Menu to view the next chapter.",
+        "instruction":"",
+        "_nevigateBack": {
+            "_isEnabled": true,
+            "_nevigateBtnText":"Menu",
+            "_isEnabledOnCompleted":false,
+            "_comments":"",
+            "_style":{
+                "positions":"",
+                "top":"100px",
+                "left":"100px"
+            },
+            "_nevigateTo":"co-01"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+
+   
+  {
+    "_id":"c-m2-05",
+    "_parentId":"b-m2-05",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Introduction",
+    "displayTitle":"",
+    "body":"<span class='course-title'>Icebreaker</span><br><br>Jumping straight into a training session may feel like you are using your time effectively. However, if you do not get the group to ‘gel’ together, they will not work well together. Thus, it is essential to break the ice.<br><br>This chapter will guide you on conducting engaging ice-breaker activities and thus developing a collaborative learning environment.",
+    "instruction":"",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+      "_id": "c-m2-10",
+      "_parentId": "b-m2-10",
+      "_type": "component",
+      "_component": "balloonActivity",
+      "_classes": "",
+      "_layout": "full",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_questionWeight": 1,
+      "_isRandom": false,
+      "_selectable": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": false,
+      "_recordInteraction": true,
+      "title": "Break the Balloon",
+      "displayTitle": "Break the Balloon",
+      "body": "Identify the terminologies that are associated with an icebreaker. Keep a watch on the timer. You have 60 seconds to complete your task. ",
+      "instruction": "Break the balloon by selecting the correct terminology.(On every correct answer text turn to green)",
+      "_balloonImage":"course/en/images/balloon1.jpg",
+      "_items": [
+        {
+          "displayAnswers":[
+              {"text":"Introduce fun"},
+              {"text":"Energise the group"},
+              {"text":"Start work"},
+              {"text":"Break barriers"}
+          ],
+          "correctAnswers":[0,1,3]
+        },
+        {
+          "displayAnswers":[
+            {"text":"Generate seriousness"},
+            {"text":"Encourage"},
+            {"text":"Break up conversations"},
+            {"text":"Release stress"}
+          ],
+          "correctAnswers":[1,3]
+        },
+        {
+          "displayAnswers":[
+            {"text":"Introduce topics"},
+            {"text":"Repetitious"},
+            {"text":"Grab attention"},
+            {"text":"Tedious"}
+          ],
+          "correctAnswers":[0,2]
+        },
+        {
+          "displayAnswers":[
+            {"text":"Warm up"},
+            {"text":"Initiate conversations"},
+            {"text":"Introduce participants"},
+            {"text":"Create pressure"}
+          ],
+          "correctAnswers":[0,1,2]
+        },
+        {
+          "displayAnswers":[
+            {"text":"Bring enthusiasm"},
+            {"text":"Set rules"},
+            {"text":"Clarify doubts"},
+            {"text":"Introduce the Trainer"}
+          ],
+          "correctAnswers":[0,2]
+        }
+      ],
+      "_timeRequiredInSeconds":30,
+      "_commonFeedback":"This activity of identifying words must have grabbed your attention, as you were fully involved in it. Correct? Well, you need to set the mood properly before you begin when facilitating a training session.",
+      "_pageLevelProgress": {
+          "_isEnabled": true
+      }
+    },
+  {
+    "_id":"c-m2-15",
+    "_parentId":"b-m2-15",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Learning Objectives",
+    "displayTitle":"Learning Objectives",
+    "body":"By the end of this chapter, you will be able to:<br><ul><li>Manage interactive distractions.</li><li>Manage distractions due to challenging personalities.</li></ul>",
+    "instruction":"",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+
+  {
+     "_id":"c-m2-20",
+    "_parentId":"b-m2-20",
+    "_type": "component",
+    "_layout": "full",
+    "_component": "questionSlider",
+    "displayTitle": "Where Do You Fall on The Introvert-Extrovert Continuum?",
+    "title": "Where Do You Fall on The Introvert-Extrovert Continuum?",
+    "body": "Answer each statement True or False, choosing the one that applies to you more often than not.",
+    "_classes": "",
+    "_isLockedStep":true,
+    "instruction": "Select Submit once you have finished.",
+    "_attempts":1,
+    "_canShowModelAnswer":false,
+    "_canShowMarking":false,
+    "_items": [
+        {
+          "title": "First Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"1",
+              "qText":"I prefer one-to-one conversations to group activities.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"2",
+              "qText":"I often prefer to express myself in writing.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"3",
+              "qText":"I enjoy solitude.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        },
+        {
+          "title": "Second Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"4",
+              "qText":"I seem to care about wealth, fame and status less than my peers.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"5",
+              "qText":"I dislike small talk, but I enjoy talking in depth about topics that matter to me.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"6",
+              "qText":"People tell me that I'm a good listener.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        },
+        {
+          "title": "Third Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"7",
+              "qText":"I am not a big risk-taker.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"8",
+              "qText":"I enjoy work that allows me to ‘dive in’ with few interruptions.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"9",
+              "qText":"I like to celebrate birthdays with few close friends or family members.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        },
+        {
+          "title": "four Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"10",
+              "qText":"People describe me as ‘softly spoken’ or ‘mellow’.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"11",
+              "qText":"I prefer not to show or discuss my work with others until it's finished.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"12",
+              "qText":"I dislike conflict.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        },
+        {
+          "title": "five Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"13",
+              "qText":"I do my best work on my own.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"14",
+              "qText":"I tend to think before I speak.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"15",
+              "qText":"I feel drained after being out and about, even if I've enjoyed myself.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        },
+        {
+          "title": "Six Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"16",
+              "qText":"I often let calls go through to voicemail.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"17",
+              "qText":"I prefer a weekend with absolutely nothing to do to one with too many things scheduled.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"18",
+              "qText":"I don't enjoy multi-tasking.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        },
+        {
+          "title": "Seven Slide",
+          "alt": "alt text",
+          "src": "",
+          "headings":["Statement","True","False"],
+          "_subItems":[
+            {
+              "gId":"19",
+              "qText":"I can concentrate easily.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            },
+            {
+              "gId":"20",
+              "qText":"In classroom situations, I prefer lectures to seminars.",
+              "options":[{
+                "text":"true"
+              },
+              {
+                "text":"false"
+              }]
+            }
+          ]
+        }
+    ],
+    "_feedback": {
+        "title": "Feedback",
+        "correct": "correct Feedback<br><br>",
+        "_incorrect": {
+            "final": "Incorrect feedback<br><br>"
+        },
+        "_partlyCorrect": {
+          "notFinal": "",
+          "final": "particularly Feedback<br><br>"
+        }
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true
+    }
+},
+
+
+{
+    "_id": "c-m2-25",
+    "_parentId": "b-m2-25",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "left",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_isRandom": false,
+    "_selectable": 4,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "title": "Managing Interactive Distractions",
+    "displayTitle": "Managing Interactive Distractions",
+    "instruction": "Select the correct options. Select Submit once you have finished.",
+    "body": "Let’s consider a scenario. <br><br>A training session is under way. Ana and the participants have reassembled post-lunch to continue with the session. She can hear phones buzzing and realises that some of the participants are surreptitiously checking their phones. Ana wonders if they are paying attention to the content and whether they will take away all of the information.<br><br> <b class='question-title'>What should she do in such a situation? </b>",
+    "_items": [
+    {
+      "text": "Ask the participants to place their devices with her until the session concludes. ",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Set some ground rules to mute phones and not check them during the session.",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Ignore and do her job well, as these distractions are unavoidable in this era.",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Encourage the participants to be aware of the importance of mindfulness and focus.",
+      "_shouldBeSelected": true
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "<img src='course/en/images/correct-icon.png'><br><span class='correct'>Correct!<br><br></span>Every Trainer aims to conduct productive and efficient training sessions. Banning devices won’t work with adult participants, however, she needs to do something about it. She should declare at the start that the participants should avoid checking phones. Alternatively, she could emphasise the importance of mindfulness and incorporate some holistic focus techniques during the session.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "<img src='course/en/images/incorrect-icon.png'><br><span class='incorrect'>Incorrect!<br><br></span>Every Trainer aims to conduct productive and efficient training sessions. Banning devices won’t work with adult participants, however, she needs to do something about it. She should declare at the start that the participants should avoid checking phones. Alternatively, she could emphasise the importance of mindfulness and incorporate some holistic focus techniques during the session."
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "<strong style='color:red; font-size:30px;'>Quite Close!</strong><br><br>Every Trainer aims to conduct productive and efficient training sessions. Banning devices won’t work with adult participants, however, she needs to do something about it. She should declare at the start that the participants should avoid checking phones. Alternatively, she could emphasise the importance of mindfulness and incorporate some holistic focus techniques during the session."
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+
+
+ {
+        "_id": "c-m2-40",
+        "_parentId": "b-m2-40",
+        "_classes": "mcq-style1",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Participants Distracting the Session – Challenging Personalities",
+        "displayTitle": "Participants Distracting the Session – Challenging Personalities",
+        "body": "Challenging personalities fall into seven basic categories, though there is some overlap. Preparation through practice will help you to recognise and cope with distracting and challenging participants.<br><br>Take a look at some of these challenging personalities. ",
+        "instruction": "Select each arrow to view how you would approach them.",
+        "_hasNavigationInTextArea": false,
+        "mobileInstruction": "Select the plus sign to view the content, then select the forward arrow to proceed. ",
+        "_setCompletionOn":"allItems",
+        "_items": [
+            {
+                "title": "",
+                "body": "<b class='title-h1'>Jane is selfish and inconsiderate:</b><br><ul><li>Get her attention.</li><li>Make her feel well disposed towards you.</li><li>Explain the problem and offer to help.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session01.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            },
+            {
+                "title": "",
+                "body": "<b class='title-h1'>Amelia is a bully and critic:</b><br><ul><li>Don’t react submissively, apologise or agree.</li><li>Don’t argue.</li><li>Ask an assertive question about the criticism and if she blusters, ignore her.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session02.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            },
+            {
+                "title": "",
+                "body": "<b class='title-h1'>Vinay is a bulldozer:</b><br><ul><li>Stand up to them but don’t argue, be angry or weak.</li><li>Say that you disagree with the points made.</li><li>If you are interrupted say so.</li><li>Maintain eye contact.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session03.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Lola is a hesitant perfectionist:</b><br><ul><li>Give her a deadline and a good reason for it.</li><li>Attach sufficient facts and instructions to any work given.</li><li>Explain the 80/20 rule.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session04.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Alan is a pessimist and a victim:</b><br><ul><li>Don’t bother to argue.</li><li>Don’t let him drag you down.</li><li>Ask for solutions and not problems.</li><li>Make it clear that the work will go ahead, with or without him.</li><li>Don’t agree, apologise or make excuses.</li><li>Interrupt as soon as the message is received once.</li><li>Paraphrase the fair criticism, be non-judgmental.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session05.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Anthony is unresponsive:</b><br><ul><li>Start a conversation.</li><li>Ask open questions.</li><li>Remain silent for as long as possible, with friendly body language.</li><li>Don’t fill the silence with conversation – but do comment on it.</li><li>Ask why they he is silent or anxious.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session06.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            },
+            {
+
+                "title": "",
+                "body": "<b class='title-h1'>Mia is aggressive, a know-it-all and a loose cannon:</b><br><ul><li>Do your homework.</li><li>Listen actively.</li><li>Paraphrase what you hear.</li><li>Ask for more detail.</li><li>Get her on her own if possible.</li><li>Explain the facts/error but allow her to save face.</li></ul>",
+                "_graphic": {
+                    "src": "course/en/images/session07.png",
+                    "alt": "",
+                    "attribution":""
+                },
+                "strapline": ""
+            }
+        ],
+    "_textSourceContent": {
+        "_isEnabled": true,
+        "insertAfter":".component-inner",
+        "source":"<b>Conclusion section</b><br><br>There is a reference to the following three methodologies/techniques in this section.<ul><li>Active listening</li><li>Open questions</li><li>80/20 rule</li></ul><br><div class='offbox1'><div class='offimg'><img src='course/en/images/note.png'></div><div class='offtext'>Check out the <b>'Techniques for Trainers'</b> document in the <b>Resources</b> section to learn more about them.</div><div style='clear:both;'></div></div>"
+    },
+            "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+{
+  "_id": "c-m2-60",
+  "_parentId": "b-m2-60",
+  "_type": "component",
+  "_component": "objectMatching",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_questionWeight": 20,
+  "_isRandom": true,
+  "_shouldDisplayAttempts": false,
+  "_canShowModelAnswer": true,
+  "_recordInteraction": true,
+  "title": "Managing Personalities",
+  "displayTitle": "Managing Personalities",
+  "body": "How would you approach the following personalities in a training session? ",
+  "instruction": "Select the options on the left, match it with the correct options on the right. Select Submit once you have finished.",
+  "_categoryTitle": "Personalities:",
+  "_optionTitle": "Actions:",
+  "_defaultAnswerBGColor": "#fff",
+  "_items": [
+    {
+      "question": "Mia is aggressive, a know-it-all and a loose cannon",
+      "answer": "Explain the facts/error but allow her to save face.",
+      "questionBGColor": "#fde1de"
+    },
+    {
+      "question": "Anthony is unresponsive",
+      "answer": "Start a conversation. Ask open questions.",
+      "questionBGColor": "#c2a993"
+    },
+    {
+      "question": "Amelia is a bully and critic",
+      "answer": "Don’t react submissively, apologise or agree.",
+      "questionBGColor": "rgba(242, 172, 146, 0.91)"
+    }
+  ],
+  "_feedback": {
+    "correct": "<div class='correct-design'><img src='course/en/images/correct-icon-white.png'></div><div class='correct-text'><span class='correct'>Correct!</span><p style='text-alight:center;'>You have matched the options correctly!</p></div>",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "<div class='incorrect-design'><img src='course/en/images/incorrect-icon-white.png'></div><div class='in-correct-text'><span class='incorrect'>Incorrect!</span><p style='text-alight:center;'>Select the ‘Correct Answer’ tab to view the correct answers.</p></div>"
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "<div class='in-correct-text'><span class='incorrect'>Quite Close!</span><p style='text-alight:center;'>Select the ‘Correct Answer’ tab to view the correct answers.</p></div>"
+    }
+  },
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+
+
+{
+        "_id": "c-m2-65",
+        "_parentId": "b-m2-65",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "right",
+        "title": "Let’s Recap",
+        "displayTitle": "<span class='item-first-block-title'>Let’s Recap</span>",
+        "body": "Here are the key learnings from this chapter:<ul><li>Manage the training for the entire group by handling individuals who can and will distract you from your plan – either with or without intent.</li><li>Manage challenging personalities and explore ways to minimise their impact/disruption on others.</li></ul>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-m2-70",
+        "_parentId": "b-m2-70",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Development Opportunity",
+        "displayTitle": "Development Opportunity",
+        "body": "Now that you have been through this chapter, here are some tasks for you.<br><div class='offbox1'><div class='offimg'><img src='course/en/images/note.png'></div><div class='offtext'>Prepare a comprehensive checklist to address all possible interactive distractions to ensure that everything is ready for your training.</div><div style='clear:both;'></div></div><div class='offbox2'><div class='offimg'><img src='course/en/images/checklist.png'></div><div class='offtext'>Choose any subject and list some open questions that you would pose to a learner.</div><div style='clear:both;'></div></div><div style='clear:both;'></div></div><div class='offbox3'><div class='offimg'><img src='course/en/images/imp.png'></div><div class='offtext'>Submit your tasks to your manager for evaluation and feedback.</div><div style='clear:both;'></div></div>",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+
+{
+        "_id":"c-m2-75",
+        "_parentId":"b-m2-75",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"page-end-style",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"Select Menu to view the next chapter.",
+        "instruction":"",
+        "_nevigateBack": {
+            "_isEnabled": true,
+            "_nevigateBtnText":"Menu",
+            "_isEnabledOnCompleted":false,
+            "_comments":"",
+            "_style":{
+                "positions":"",
+                "top":"100px",
+                "left":"100px"
+            },
+            "_nevigateTo":"co-01"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+
+{
+    "_id":"c-m3-05",
+    "_parentId":"b-m3-05",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Introduction",
+    "displayTitle":"Sense Checking",
+    "body":"Moods and emotions can influence the learning. <b>Happy, contented people learn,</b> while <b>frustrated, sad people don’t!</b> One powerful emotion in a group can affect the others. Therefore, it’s important to manage the emotions of the entire training group.<br><br>People are human beings, and with that comes the challenge of managing them on a personal level. It is important for you to differentiate: you should not need to FIX participants. In your role as a Trainer, you should:<ul><li>Keep an appropriate distance and focus on your role of ‘guide’</li><li>Listen to the flow, but try to keep within the scope of the training</li></ul><br>This chapter will introduce you to some basic sense-checking techniques for understanding, managing and recognising the emotional dynamics of a group. ",
+    "instruction":"",
+    "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+},
+{
+      "_id": "c-m3-10",
+      "_parentId": "b-m3-10",
+      "_classes": "",
+        "_layout": "full",
+        "_type": "component",
+        "_component": "matching",
+        "_attempts": 1,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_canShowModelAnswer": true,
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_recordInteraction": true,
+        "_questionWeight": 1,
+        "title": "What Do These Emotions Communicate?",
+        "displayTitle": "What Do These Emotions Communicate?",
+        "body": "",
+        "instruction":"Select the correct emotion from each drop-down list and select Submit.",
+        "isNumber":false,
+        "isGraphics":true,
+        "placeholder": "select an option",
+        "_items": [
+
+            {
+                "item-graphic":"course/en/images/administration-icon-1.png",
+                "text": "",
+                "_options": [
+
+                    {
+                        "text": "Happy",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Sad",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Angry",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Confused",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Surprised",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Intense",
+                        "_isCorrect": false
+                    }
+                ]
+            },
+            {
+                "item-graphic":"course/en/images/administration-icon-2.png",
+                "text": "",
+                "_options": [
+
+                    {
+                        "text": "Happy",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Sad",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Angry",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Confused",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Surprised",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Intense",
+                        "_isCorrect": false
+                    }
+                ]
+            },
+            {
+                "item-graphic":"course/en/images/administration-icon-3.png",
+                "text": "",
+                "_options": [
+
+                    {
+                        "text": "Happy",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Sad",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Angry",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Confused",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Surprised",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Intense",
+                        "_isCorrect": false
+                    }
+                ]
+            },
+            {
+                "item-graphic":"course/en/images/administration-icon-4.png",
+                "text": "",
+                "_options": [
+
+                    {
+                        "text": "Happy",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Sad",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Angry",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Confused",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Surprised",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Intense",
+                        "_isCorrect": true
+                    }
+                ]
+            },
+            {
+                "item-graphic":"course/en/images/administration-icon-4.png",
+                "text": "",
+                "_options": [
+
+                    {
+                        "text": "Happy",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Sad",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Angry",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Confused",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Surprised",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Intense",
+                        "_isCorrect": false
+                    }
+                ]
+            },
+            {
+                "item-graphic":"course/en/images/administration-icon-4.png",
+                "text": "",
+                "_options": [
+
+                    {
+                        "text": "Happy",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Sad",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Angry",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Confused",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Surprised",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Intense",
+                        "_isCorrect": true
+                    }
+                ]
+            }
+
+        ],
+
+        "_feedback":{
+            "title": "",
+            "correct": "<div class='correct-design'><img src='course/en/images/correct-icon-white.png'></div><div class='in-correct-text'><span class='correct'>Correct!</span><br><br><p>You identified the sections correctly.</p></div>",
+            "_incorrect": {
+                "final": "<div class='incorrect-design'><img src='course/en/images/incorrect-icon-white.png'></div><br><div class='in-correct-text'><span class='incorrect'>Incorrect!</span><br><br><p>Please select the Correct Answer tab to view the correct answers.</p></div>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "",
+                "final": "<div class='in-correct-text'><span class='incorrect'>Quite Close!</span><br><p>Please select the Correct Answer tab to view the correct answers.</p></div>"
+            }
+
+        }
+
+    },
+
+{
+    "_id":"c-m3-15",
+    "_parentId":"b-m3-15",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Learning Objectives",
+    "displayTitle":"Learning<br> Objectives",
+    "body":"By the end of this chapter, you will be able to:<br><br><ul><li>Explain the need to check moods and emotions.</li><li>Apply sense-checking techniques.</li></ul>",
+    "instruction":"",
+    "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+    "_id":"c-m3-20-01",
+    "_parentId":"b-m3-20-01",
+    "_classes": "",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"left",
+    "title":"Understanding Moods and Emotions",
+    "displayTitle":"Understanding Moods and Emotions",
+    "body":"You will come across different personalities: some prefer to stay passive, while others are enthusiastic enough to hijack the training agenda. Whatever the mood of the group or individual, it’s important to acknowledge it or they are likely to disengage.<br><br>Here are a few points to remember while handling such situations:<ul><li>Acknowledge concerns, talk about them and put them to one side</li><li>Keep an appropriate distance and act as a guide</li><li>Listen to the flow, but try to restrict within the scope of the training</li></ul>",
+    "instruction":"",
+    "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+        "_id":"c-m3-20-03",
+        "_parentId":"b-m3-20-01",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "large": "course/en/images/moods01.png",
+            "small": "course/en/images/moods01.png",
+            "attribution":""
+        }
+    },
+{
+    "_id":"c-m3-25",
+    "_parentId":"b-m3-25",
+    "_type": "component",
+    "_component": "flipcard",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Impact of Emotions",
+    "displayTitle": "Impact of Emotions",
+    "body": "In a training session, different emotions will have different implications on individuals and groups. ",
+    "instruction": "Select each card to reveal the impact of emotions.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "examplePopUp" : "aaaaaaaaaaaaaaa",
+    "_items": [
+        {
+            "frontImage": {
+                "src": "course/en/images/emotions-flip01.png",
+                "alt": ""
+            },
+            "backTitle": "",
+            "backBody": "<ul><li>Strong emotions of individuals will powerfully influence the group (e.g. happy or sad). </li><li>The personal emotional energy of individuals will affect the way they engage with the subject, the Trainer and other participants.</li><li>Intense emotion relates to focused learning.</li></ul>"
+        },
+        {
+            "frontImage": {
+                "src": "course/en/images/emotions-flip01.png",
+                "alt": ""
+            },
+            "backTitle": "",
+            "backBody": "<ul><li>Negative emotions will cause the participants to disengage (e.g. sad, confused, angry).</li><li>Positive emotions will help synchronise the group’s learning together. </li><li>Happy emotion relates to enjoyment. Therefore, giving surprises during training is a great way to engage the group.</li></ul>"
+        }
+    ],
+    "_textSourceContent": {
+        "_isEnabled": true,
+        "insertAfter":".component-inner",
+        "source":"<div class='offbox1'><div class='offimg'><img src='course/en/images/tips.png'></div><div class='offtext'>In psychology – happiness, joy and desire are approach emotions. This state is one of increased dopamine levels, important for interest and learning.</div><div style='clear:both;'></div></div>"
+    }
+},
+{
+    "_id":"c-m3-30",
+    "_parentId":"b-m3-30",
+    "_type":"component",
+    "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 4,
+  "_canShowModelAnswer": true,
+  "_canShowFeedback": true,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "How Will You Handle this Situation?",
+  "displayTitle": "How Will You Handle this Situation?",
+  "body": "In your training session, the participants are enthusiastic and having a lot of discussion. They are eager to gather additional information so the first two hours of the session have been quite slow.<span class='question-title'>What will you do to ensure that the participants' energy remains high and that the session is also under your control in terms of time and content coverage?</span>",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Acknowledge their concerns.",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Maintain the appropriate distance and act as a guide.",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Restrict the discussion within the scope of the training.",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Remind them of the training agenda.",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "<div class='correct-design'><img src='course/en/images/correct-icon-white.png'></div><div class='correct-text'><span class='correct'>Correct!</span><p style='text-alight:center;'>To ensure that the participants' enthusiasm is high and that the session is under your control in terms of time and content coverage, you should restrict the discussion to within the scope of the training. Also, maintain an appropriate distance and act as a guide. </p></div>",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "<div class='incorrect-design'><img src='course/en/images/incorrect-icon-white.png'></div><div class='in-correct-text'><span class='incorrect'>Incorrect!</span><p style='text-alight:center;'>To ensure that the participants' enthusiasm is high and that the session is under your control in terms of time and content coverage, you should restrict the discussion to within the scope of the training. Also, maintain an appropriate distance and act as a guide. </p></div>"
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "<div class='in-correct-text'><span class='incorrect'>Quite Close!</span><p style='text-alight:center;'>To ensure that the participants' enthusiasm is high and that the session is under your control in terms of time and content coverage, you should restrict the discussion to within the scope of the training. Also, maintain an appropriate distance and act as a guide. </p></div>"
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+        "_id": "c-m3-35",
+        "_parentId": "b-m3-35",
+        "_type": "component",
+        "_component":"reveal",
+        "_classes":"responsive-reveal",
+        "_layout":"full",
+        "_direction":"right",
+        "title": "How to Deal with Moods and Emotions?",
+        "displayTitle": "How to Deal with Moods and Emotions?",
+        "body": "",
+        "instruction": "Select the arrow to read the guidelines to deal with moods and emotions.",
+        "isCovertToTextOnMobile":true,
+        "isShowMoreText":false,
+        "first": {
+            "src": "course/en/images/reveal-03.png",
+            "mob_src":"course/en/images/reveal-07.png",
+            "alt": "",
+            "title": "",
+            "body": "",
+            "_maxCharacters": 10,
+            "moreText": "More"
+        },
+        "second": {
+            "src": "course/en/images/reveal-04.png",
+            "mob_src":"course/en/images/reveal-06.png",
+            "alt": "",
+            "title": "",
+            "body": "<b>Guidelines to Deal with Moods and Emotions</b><br><ul><li>Be sensitive but not afraid to address an individual if they are ‘taking over’ a session with their emotions. </li><li>Provide empathy without having to manage the emotion head on.</li><li>Don’t try to fix the participants; they are entitled to their feelings.</li><li>Recognise the positive and negative emotions so that the participants feel listened to.</li><li>Manage emotions, when required. If someone is overly excited, help them to focus, and if frustrated, find out the cause of the frustration and remove it.</li></ul>",
+            "_maxCharacters": 10,
+            "moreText": "More"
+        },
+        "control": {
+            "showText": "Show",
+            "hideText": "Hide"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+},
+
+{
+      "_id": "c-m3-40",
+      "_parentId": "b-m3-40",
+      "_type":"component",
+      "_component": "adapt-clickAndLearn-horizontal",
+      "_classes": "horizontal-blank-bg",
+      "_layout": "full",
+      "title": "Types of Sense-Checking Techniques",
+      "displayTitle": "Types of Sense-Checking Techniques",
+      "body": "Some participants may find it difficult to express emotions up front in a verbal way. Using icons, images or analogies will allow them to communicate in a less personal way. The use of sense-checking techniques can be best used to deal with the emotions of such participants.",
+      "instruction": "Select each icon to learn more about the three stages:",
+      "mobileInstruction": "Select each icon to learn more about the three stages:",
+      "_items": [
+          {
+              "title": "Emotional icons",
+              "body": "<ul><li>Use different icons, such as the sun, clouds, thumbs, ticks, etc. </li><li>Limit the number of icons, for example, three good or bad or average. </li><li>Give the participants their own set of icons to show, when needed or asked for.</li></ul>",
+              "_graphic": {
+                  "src": "course/en/images/icon01.png",
+                  "alt": ""
+              }
+          },
+          {
+              "title": "Emotional associations ",
+              "body": "<ul><li>Play with imagery; colours, shapes or landscapes.</li><li>Alternatively, focus the questions more so that the participants give a more specific response. For example, ask them to state, ‘In one word, what does the image say to you?’</li></ul>",
+              "_graphic": {
+                  "src": "course/en/images/icon02.png",
+                  "alt": ""
+              }
+          },
+          {
+              "title": "Content",
+              "body": "<ul><li>Localise your analogies depending on well-known analogies.</li><li>Alternatively, play with metaphors or use objects instead of images.</li></ul>",
+              "_graphic": {
+                  "src": "course/en/images/icon03.png",
+                  "alt": ""
+              }
+          }
+      ],
+      "_flag": "vertical"
+  },
+  {
+      "_id": "c-m3-40-01",
+      "_parentId": "b-m3-40-01",
+      "_type":"component",
+      "_component":"text",
+      "_classes":"",
+      "_layout":"full",
+      "title":"Sense-Checking Techniques",
+      "displayTitle":"Sense-Checking Techniques",
+      "body":"Here are a few sense-checking techniques that you can conduct during your training session.<br><br><i><span class='instr-text'>Select each icon to find out about the sense-checking techniques to evaluate emotions.</span><br><br><a href='course/en/document/Technique_Emotionalicons.pdf' target='_blank'><div class='link1'><img src='course/en/images/icon01-link.png'><br>Emotional Icons</div></a><a href='course/en/document/EmotionalAssociation.pdf' target='_blank'><div class='link1'><img src='course/en/images/icon02-link.png'><br>Emotional Associations </div></a><a href='course/en/document/Technique_Emotionalanalogy.pdf' target='_blank'><div class='link1'><img src='course/en/images/icon03-link.png'><br>Analogies</div></a>",
+      "instruction":""
+  },
+  {
+    "_id": "c-m3-40-02",
+    "_parentId": "b-m3-40-02",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "left",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_isRandom": false,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "title": "Identify the Sense-Checking Technique",
+    "displayTitle": "Identify the Sense-Checking Technique",
+    "body": "Sara is conducting a training session. She wants to check the knowledge level of the group to find out who is feeling confident with the new Colour Care Line?<br>She uses the following options to gauge this:<ul><li>I am fully confident and working with it</li><li>I am partially confident</li><li>I am not confident</li></ul><b><span class='question-title'>Which sense-checking technique is Sara applying in her training?</span></b>",
+    "instruction": "Select the correct option. Select Submit once you have finished.",
+    "_items": [
+      {
+        "text": "Emotional Icons ",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Emotional Associations ",
+        "_shouldBeSelected": false
+        },
+      {
+        "text": "Analogies",
+        "_shouldBeSelected": true
+      }
+    ],
+    "_feedback":{
+      "title": "Feedback",
+      "correct": "<img src='course/en/images/correct-icon.png'><br><span class='correct'>Correct!</span><br><p>Sara is applying the Analogies sense-checking technique.Remember that if you plan to work in groups during the training session it is beneficial to mix high-knowledge (full glass) individuals with medium-knowledge (half glass) individuals within one group.</p>",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<img src='course/en/images/incorrect-icon.png'><br><span class='incorrect'>Incorrect!</span><br><p>Sara is applying the Analogies sense-checking technique.Remember that if you plan to work in groups during the training session it is beneficial to mix high-knowledge (full glass) individuals with medium-knowledge (half glass) individuals within one group.</p>"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+},
+
+
+
+{
+    "_id":"c-m3-45",
+    "_parentId":"b-m3-45",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"right",
+    "title":"Let’s Recap",
+    "displayTitle":"Let’s Recap",
+    "body":"Here are the key learnings from this chapter:<br><ul><li>Moods and emotions can affect the learning environment of the entire group or individuals within the group. Therefore, step back and try to understand, manage or recognise the emotions of the participants to avoid conflict, disengagement or hijacking of the training.</li><li>Sense-checking techniques provide an easy way to check the mood of a group. They also help to identify individual emotional energies and allow you to manage them within the group or individually.</li><li>The three different sense-checking techniques to evaluate emotions include:<ul><li>Emotional icons</li><li>Emotional associations </li><li>Analogies</li></ul></li><li>As a Trainer, you should be able to choose and apply sense checking to the appropriate situation. Also, adapt and create a sense-checking technique to best suit your workshop and learning activities, keeping it fresh for regular participants.</li></ul>",
+    "instruction":"",
+     "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+},
+{
+    "_id":"c-m3-50",
+    "_parentId":"b-m3-50",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Development Opportunity",
+    "displayTitle":"Development Opportunity",
+    "body":"Now that you have been through this chapter, here is a task for you. <br><div class='offbox1'><div class='offimg'><img src='course/en/images/note.png'></div><div class='offtext'>Conduct the sense-checking techniques that you just read about when you conduct your training session. Film it to let your manager evaluate how well it was conducted.</div><div style='clear:both;'></div></div><div class='offbox2'><div class='offimg'><img src='course/en/images/checklist.png'></div><div class='offtext'>Create your own sense-checking technique to evaluate emotions. Present its title, objective, explanation, preparation required, method/execution steps and method, provide examples, if required.</div><div style='clear:both;'></div></div><div class='offbox3'><div class='offimg'><img src='course/en/images/imp.png'></div><div class='offtext'>Submit your task to your manager for evaluation and feedback.</div><div style='clear:both;'></div></div>",
+    "instruction":"",
+     "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+},
+{
+        "_id":"c-m3-55",
+        "_parentId":"b-m3-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"page-end-style",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"Select Menu to view the next chapter.",
+        "instruction":"",
+        "_nevigateBack": {
+            "_isEnabled": true,
+            "_nevigateBtnText":"Menu",
+            "_isEnabledOnCompleted":false,
+            "_comments":"",
+            "_style":{
+                "positions":"",
+                "top":"100px",
+                "left":"100px"
+            },
+            "_nevigateTo":"co-01"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+
+
+
+
+{
+    "_id":"c-m4-05",
+    "_parentId":"b-m4-05",
+    "_type":"component",
+    "_component":"text",
+    "_classes":"",
+    "_layout":"full",
+    "title":"Assessment Instructions",
+    "displayTitle":"Assessment Instructions",
+    "body":"This assessment is intended to test your knowledge of the module, <b>Environments.</b><br><br>The passing score for this assessment is 80%. You will be provided with two attempts to pass this assessment.",
+    "instruction":"",
+     "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+},
+
+    {
+  "_id": "c-m4-10",
+  "_parentId": "b-m4-10",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 4,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 1",
+  "displayTitle": "Question 1",
+  "body": "Which of the following factors will you consider to ensure that minimum physical distractions occur?",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Temperature of the room",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Temperament of the participants",
+      "_shouldBeSelected": false
+      },
+    {
+      "text": "Line of sight",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Inclusion of mobile devices",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "<img src='course/en/images/correct-icon.png'><br><span class='correct'>Correct!</span>",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "<img src='course/en/images/incorrect-icon.png'><br><span class='incorrect'>Incorrect!</span>"
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": ""
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-15",
+  "_parentId": "b-m4-15",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 1,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 2",
+  "displayTitle": "Question 2",
+  "body": "Which of the following will you avoid while dealing with high-energy participants in a session?",
+  "instruction": "Select the correct option. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Give adequate coffee and comfort breaks",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Perform a standing-up activity",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Silence them to get their attention",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Have learners write down their questions to be addressed later",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "Congratulations, this is the correct feedback.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question incorrectly."
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question correctly."
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-20",
+  "_parentId": "b-m4-20",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 5,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 3",
+  "displayTitle": "Question 3",
+  "body": "Which of the following factors help to maximise a training room?",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "The number of participants",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Trainer’s expertise",
+      "_shouldBeSelected": false
+
+    },
+    {
+      "text": "The set-up of the equipment/displays",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Arrangement of models",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Presence of senior management",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "Congratulations, this is the correct feedback.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question incorrectly."
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question correctly."
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-25",
+  "_parentId": "b-m4-25",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 4,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 4",
+  "displayTitle": "Question 4",
+  "body": "Which of the following should you adhere to while delivering training activities in a salon or studio? ",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Keep all the participants stationed in one place so that they can focus on the training",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Display the new products aesthetically and arrange for a separate area to explore them",
+      "_shouldBeSelected": true,
+      "feedback": "Option two incorrect feedback"
+    },
+    {
+      "text": "Establish a location where relevant images are displayed on an iPad/screen",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Set up an area where they can see new courses and recommended next-step courses",
+      "_shouldBeSelected": true
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "Congratulations, this is the correct feedback.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question incorrectly."
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question correctly."
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+    "_id": "c-m4-30",
+    "_parentId": "b-m4-30",
+    "_type": "component",
+     "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_isRandom": false,
+    "_selectable": 5,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "title": "Question 5",
+    "displayTitle": "Question 5",
+    "body": "What are the strengths of a boardroom-style seating arrangement? ",
+    "instruction": "Select the correct options. Select Submit once you have finished.",
+    "_items": [
+      {
+        "text": "Good for open discussion",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Good for smaller numbers ",
+        "_shouldBeSelected": true,
+        "feedback": "Option two incorrect feedback"
+      },
+      {
+        "text": "Good for when you need the group to work in teams",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Gives a feeling of equality",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Gives a clear view of the presentation",
+        "_shouldBeSelected": false
+      }
+    ],
+    "_feedback":{
+      "title": "Feedback",
+      "correct": "Congratulations, this is the correct feedback.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question incorrectly."
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+
+{
+  "_id": "c-m4-35",
+  "_parentId": "b-m4-35",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable":1,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 6",
+  "displayTitle": "Question 6",
+  "body": "What do you do when you use ground rules as a technique to manage behaviour?",
+  "instruction": "Select the correct option. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Gather group consensus while setting acceptable behaviour",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Gather the approval of senior management while setting acceptable behaviour",
+      "_shouldBeSelected": false,
+      "feedback": ""
+    },
+    {
+      "text": "Gather the approval of fellow trainers to come up with a comprehensive list of acceptable types of behaviour",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "",
+    "_incorrect": {
+      "notFinal": "",
+      "final": ""
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": ""
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-40",
+  "_parentId": "b-m4-40",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 4,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 7",
+  "displayTitle": "Question 7",
+  "body": "For a training session, which of the following types of behaviour are appropriate?",
+   "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Keeping phones on silent ",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Respecting the models",
+      "_shouldBeSelected":true,
+      "feedback": "video/"
+    },
+    {
+      "text": "Cleaning up after using products",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Expressing your judgement on others’ opinion",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "Congratulations, this is the correct feedback.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": ""
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": ""
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-45",
+  "_parentId": "b-m4-45",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 4,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback":false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 8",
+  "displayTitle": "Question 8",
+  "body": "What are the tactics you will follow to handle a person with a bulldozer personality?",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Stand up to them but don’t argue, be angry or weak",
+      "_shouldBeSelected":true
+    },
+    {
+      "text": "Don’t agree to his/her point and then defend yourself",
+      "_shouldBeSelected": false,
+      "feedback": ""
+    },
+    {
+      "text": "Report to the higher authorities",
+      "_shouldBeSelected": false
+    },
+    {
+      "text": "Maintain eye contact",
+      "_shouldBeSelected": true
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "",
+    "_incorrect": {
+      "notFinal": "",
+      "final": ""
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": ""
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-50",
+  "_parentId": "b-m4-50",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable": 4,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 9",
+  "displayTitle": "Question 9",
+  "body": "What are the steps you will take to follow the Car Park technique?",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Introduce your session, covering the aim and objectives",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Draw everyone’s attention to the Car Park",
+      "_shouldBeSelected": true,
+      "feedback": ""
+    },
+    {
+      "text": "Capture questions on the Car Park to be discussed later",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Extend your session to address all the topics parked",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "",
+    "_incorrect": {
+      "notFinal": "",
+      "final": ""
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": ""
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+{
+  "_id": "c-m4-55",
+  "_parentId": "b-m4-55",
+  "_type": "component",
+  "_component": "mcq",
+  "_classes": "",
+  "_layout": "full",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_questionWeight": 1,
+  "_isRandom": false,
+  "_selectable":3,
+  "_canShowModelAnswer": false,
+  "_canShowFeedback": false,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "title": "Question 10",
+  "displayTitle": "Question 10",
+  "body": "Which of the following steps will you adopt to ensure a smooth training session?",
+  "instruction": "Select the correct options. Select Submit once you have finished.",
+  "_items": [
+    {
+      "text": "Manage all the challenging personalities before they can cause disturbance",
+      "_shouldBeSelected": true
+    },
+    {
+      "text": "Use the Car Park technique to park subjects to be addressed later",
+      "_shouldBeSelected": true,
+      "feedback": "Option two incorrect feedback"
+    },
+    {
+      "text": "Address all the queries and concerns of trainees immediately as it is important to win their trust",
+      "_shouldBeSelected": false
+    }
+  ],
+  "_feedback":{
+    "title": "Feedback",
+    "correct": "Congratulations, this is the correct feedback.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question incorrectly."
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question correctly."
+    }
+  },
+  "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Select here to submit your answer."
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": ""
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct Answer",
+      "ariaLabel": ""
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My Answer",
+      "ariaLabel": ""
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": ""
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt"
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true
+  }
+},
+
+{
+    "_id": "c-m4-60",
+    "_parentId": "b-m4-60",
+    "_type": "component",
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_layout": "full",
+    "_isVisibleBeforeCompletion": false,
+    "_assessmentId": "a-30",
+    "title": "Results",
+    "displayTitle": "Results",
+    "body": "",
+    "_commentStart":"##########Extra attribute added Start here ############",
+      "resetAfterAttempts":2,
+      "resetPageId":"co-10",
+      "reviewAnswerText":"Review Assessment",
+      "_commentEnd":"##########Extra attribute added End here########",
+    "instruction": "",
+    "_retry": {
+      "button": "Retake Assessment",
+      "_comment": "use {{attempts}}, {{attemptsSpent}} and {{attemptsLeft}} to display attempts",
+      "feedback": ""
+    },
+    "_comment": "use {{score}}, {{maxScore}} and {{scoreAsPercent}} to display score and percentage",
+    "_completionBody": "{{{feedback}}}",
+    "_customFeedback":{
+      "first":"You scored <b>{{scoreAsPercent}}%</b> and have not successfully passed the <b>Environments</b> assessment.<br> Retake the assessment by selecting the <b>Retake Assessment</b> button.",
+      "second":"Sorry, you have not achieved the passing score of 80% or more in both your attempts. <br><br>Review your answers by selecting the <b>Review Assessment</b> button.<br> Pay attention to the areas where you did not answer correctly. You might benefit from reading up the chapters again.<br><br><button class='review-answer'>Review Assessment </button><br><br>You have successfully completed this module.<br>Select the thumbnail below to print or download the certificate.<br><br> <img class='certificate' src='course/en/images/certificate.png'><br>You may now progress to the <b>Trainer Know-How </b> module. "
+    },
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "",
+        "_allowRetry": true
+      },
+      {
+        "_score": 50,
+        "feedback": "",
+        "_allowRetry": true
+      },
+      {
+        "_score": 80,
+        "feedback": "Congratulations! You have successfully passed the <b>Environments</b> assessment with a score of <b>{{scoreAsPercent}}%</b>.<br>You may review your answers by selecting the <b>Review Assessment</b> button.<br><br><button class='review-answer'>Review Assessment </button><br><br>You have successfully completed this module.<br>Select the thumbnail below to print or download the certificate.<br><br><img class='certificate' src='course/en/images/certificate.png'><br><br>You may now progress to the <b>Trainer Know-How </b> module.",
+        "_allowRetry": false
+      },
+      {
+        "_score": 100,
+        "feedback": "Congratulations! You have successfully passed the <b>Environments</b> assessment with a score of <b>{{scoreAsPercent}}%</b>.<br>You may review your answers by selecting the <b>Review Assessment</b> button.<br><br><button class='review-answer'>Review Assessment </button><br><br>You have successfully completed this module.<br>Select the thumbnail below to print or download the certificate.<br><br><img class='certificate' src='course/en/images/certificate.png'><br><br>You may now progress to the <b>Trainer Know-How </b> module.",
+        "_allowRetry": false
+      }
+    ],
+     "_graphic":{
+            "thumbSrc":"course/en/images/certificate.png",
+            "src":"course/en/images/certificate-zoom.png"
+        }
+  }
+
+
+]

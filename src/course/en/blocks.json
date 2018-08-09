@@ -1,0 +1,1104 @@
+[
+    {
+        "_id": "b-m1-00",
+        "_parentId": "a-m1-05",
+        "_type": "block",
+        "_classes": "background-intro-1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 0,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m1-03",
+        "_parentId": "a-m1-10",
+        "_type": "block",
+        "_classes": "preparing-training",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 82,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m1-03-01",
+        "_parentId": "a-m1-10",
+        "_type": "block",
+        "_classes": "background-header",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 78
+    },
+    {
+        "_id": "b-m1-04",
+        "_parentId": "a-m1-10",
+        "_type": "block",
+        "_classes": "narrative-bg",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 37,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m1-10",
+        "_parentId": "a-m1-10",
+        "_type": "block",
+        "_classes": "trainer_mcq",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 4,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m1-35",
+        "_parentId": "a-m1-10",
+        "_type": "block",
+        "_classes": "background-header-1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 40
+    },
+    {
+        "_id": "b-m1-45",
+        "_parentId": "a-m1-15",
+        "_type": "block",
+        "_classes": "offline-act1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 10
+    },
+    {
+        "_id": "b-m1-50",
+        "_parentId": "a-m1-15",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 11
+    },
+    {
+        "_id": "b-m2-05",
+        "_parentId": "a-m2-05",
+        "_type": "block",
+        "_classes": "icebreaker",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 12,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m2-10",
+        "_parentId": "a-m2-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 53,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m2-15",
+        "_parentId": "a-m2-05",
+        "_type": "block",
+        "_classes": "icebreaker-learn",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 54
+    },
+    {
+        "_id": "b-m2-20",
+        "_parentId": "a-m2-05",
+        "_type": "block",
+        "_classes": "expose-style",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 55,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m2-25",
+        "_parentId": "a-m2-05",
+        "_type": "block",
+        "_classes": "distraction",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 79,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m2-40",
+        "_parentId": "a-m2-05",
+        "_type": "block",
+        "_classes": "narrative-bg-2",
+        "title": "",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 59,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m2-60",
+        "_parentId": "a-m2-05-2",
+        "_type": "block",
+        "_classes": " ",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 83,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m2-65",
+        "_parentId": "a-m2-05-2",
+        "_type": "block",
+        "_classes": "background-header-1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 64
+    },
+    {
+        "_id": "b-m2-70",
+        "_parentId": "a-m2-05-2",
+        "_type": "block",
+        "_classes": "offline-act1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 65
+    },
+    {
+        "_id": "b-m2-75",
+        "_parentId": "a-m2-05-2",
+        "_type": "block",
+        "_classes": "menu-page",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 75
+    },
+    {
+        "_id": "b-m3-05",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "control-01",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 13,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-10",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 66,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-15",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "learn-obj",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 68
+    },
+    {
+        "_id": "b-m3-20-01",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 85,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-25",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 86
+    },
+    {
+        "_id": "b-m3-30",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 70,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-35",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 71,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-40",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 118,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-40-01",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 119
+    },
+    {
+        "_id": "b-m3-40-02",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "sense-checking",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 120,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": true,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m3-45",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "background-header-1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 73
+    },
+    {
+        "_id": "b-m3-50",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "offline-act1",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 74
+    },
+    {
+        "_id": "b-m3-55",
+        "_parentId": "a-m3-05",
+        "_type": "block",
+        "_classes": "menu-page",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 87
+    },
+    {
+        "_id": "b-m4-05",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "questions",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 14
+    },
+    {
+        "_id": "b-m4-10",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "bg_assessment",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 67,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-15",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 41,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-20",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "bg_assessment",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 42,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-25",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 43,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-30",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "bg_assessment bg-txt",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 44,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-35",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 45,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-40",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "bg_assessment",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 46,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-45",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 47,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-50",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "bg_assessment",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 48,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-55",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 49,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    },
+    {
+        "_id": "b-m4-60",
+        "_parentId": "a-m4-05",
+        "_type": "block",
+        "_classes": "bg_assessment-01",
+        "title": "b-05",
+        "displayTitle": "",
+        "body": "",
+        "_trackingId": 50,
+        "_trickle": {
+            "_isEnabled": false,
+            "_autoScroll": true,
+            "_scrollDuration": 500,
+            "_onChildren": true,
+            "_scrollTo": "@block +1",
+            "_button": {
+                "_isEnabled": false,
+                "_styleBeforeCompletion": "hidden|visible",
+                "_styleAfterClick": "hidden|disabled|scroll",
+                "_isFullWidth": true,
+                "_autoHide": true,
+                "_className": "|trickle-round-arrow",
+                "text": "",
+                "startText": "",
+                "finalText": "",
+                "_component": "trickle-button"
+            },
+            "_stepLocking": {
+                "_isEnabled": true,
+                "_isCompletionRequired": true,
+                "_isLockedOnRevisit": false
+            }
+        }
+    }
+]
